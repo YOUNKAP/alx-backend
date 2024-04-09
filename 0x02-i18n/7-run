@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+source alx/bin/activate
+FLASK_APP=7-app.py flask run
+#deactivate
