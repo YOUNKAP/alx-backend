@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-
+""" Basic Flask app """
 import pytz
 from typing import Union, Dict
 from flask_babel import Babel, format_datetime

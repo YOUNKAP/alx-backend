@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-
+""" Basic Flask app """
 from typing import Dict, Union
 from flask import Flask, render_template, request, g
 from flask_babel import Babel
